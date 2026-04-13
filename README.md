@@ -1,6 +1,6 @@
 # Predictive accuracy diverges from physical consistency in physics-informed neural networks
 
-This repository contains representative code and sample data associated with the manuscript:
+This repository contains representative code and sample data supporting the manuscript:
 
 **Predictive accuracy diverges from physical consistency in physics-informed neural networks**
 
